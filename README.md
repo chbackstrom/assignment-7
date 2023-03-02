@@ -14,4 +14,8 @@ The CRAN repository for the SIBER package offers 11 vignettes demonstrating diff
 
 ## **Application(s)**
 
-The SIBER package can be used to calculate the overlap in isotopic niche space (e.g., biplots carbon-13 and nitrogen-15 signatures) between two or more groups of organisms (such as species, populations, or communities) to determine the trophic similarity/difference between these groups. SIBER biplots have appeared in scientific articles 
+The SIBER package can be used to calculate the overlap in isotopic niche space (e.g., biplots of carbon-13 and nitrogen-15 signatures) between two or more groups of organisms (such as species, populations, or communities) to determine the trophic similarity/difference between these groups. SIBER biplots have appeared in scientific articles in various areas of biology and ecology since the initial creation of the package in 2011.
+
+## **Review**
+
+
