@@ -18,4 +18,4 @@ The SIBER package can be used to calculate the overlap in isotopic niche space (
 
 ## **Review**
 
-
+The primary purpose of the SIBER package is to compare the trophic state of different groups of organisms (e.g., different populations or species) by generating biplots of carbon and nitrogen stable isotopic signatures and producing bayesian ellipses to statistically compare the overlap in signatures between those different groups. 
